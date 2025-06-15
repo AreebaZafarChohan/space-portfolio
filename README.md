@@ -4,7 +4,7 @@ A visually captivating **Space-Themed Portfolio** built with **Next.js**, **Tail
 
 ## 🖥️ Live Preview
 
-🔗 [View Live Site](https://your-deployed-link.vercel.app)
+🔗 [View Live Site](https://space-portfolio-gray-nu.vercel.app)
 
 ---
 
